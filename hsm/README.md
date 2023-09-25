@@ -42,7 +42,7 @@ nano terraform.tfvars
 Add your desired inputs to the file in the following format:
 
 ```ruby
-esource_group_name = ""
+resource_group_name = ""
 location            = ""
 hsm_name            = ""
 sku_name            = ""
