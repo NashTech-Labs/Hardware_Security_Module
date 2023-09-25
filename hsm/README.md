@@ -10,7 +10,7 @@ Before you can use this Terraform code, you will need to have the following inst
 
 - [Terraform]
 - [Azure CLI]
-- azure accounnt with owner permission.
+- azure account with owner permission.
 
 
 ## Usage
